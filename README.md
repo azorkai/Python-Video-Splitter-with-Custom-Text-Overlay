@@ -64,7 +64,7 @@ With the help of the `moviepy` library and ImageMagick for text rendering, this 
 
 Run the script using:
 ```bash
-python video_splitter.py
+python run.py
 ```
 The script will process the input video, split it into parts, add overlays, and save the output files in a unique directory under the specified base directory.
 
